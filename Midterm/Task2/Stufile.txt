@@ -1,0 +1,5 @@
+stu-a	109
+stu-b	124
+stu-c	245
+stu-d	278
+stu-f	299
